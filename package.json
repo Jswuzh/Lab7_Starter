@@ -14,4 +14,7 @@
     "preset": "jest-puppeteer",
     "verbose": true
   }
+  "scripts": {
+    "test": "jest"
+}
 }
